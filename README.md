@@ -37,10 +37,10 @@ Step 8	Create Pull Request → merge to main
 ### Branch summary:
   
 Ticket	Branch Name	What Gets Built  
-1	feature/setup	Folder structure, venv, requirements.txt  
-2	feature/add-expense	src/expenses.py — add_expense()  
-3	feature/view-expenses	src/expenses.py — load_expenses()  
-4	feature/summary-report	src/reports.py — monthly_summary()  
-5	feature/currency-convert	src/currency.py — get_usd_rate()  
-6	feature/main-menu	main.py — full menu loop  
+1	feature/setup	       --> Folder structure, venv, requirements.txt  
+2	feature/add-expense	 --> src/expenses.py — add_expense()  
+3	feature/view-expenses	--> src/expenses.py — load_expenses()  
+4	feature/summary-report	--> src/reports.py — monthly_summary()  
+5	feature/currency-convert	--> src/currency.py — get_usd_rate()  
+6	feature/main-menu	main.py --> full menu loop  
   
