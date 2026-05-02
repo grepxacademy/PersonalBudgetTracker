@@ -4,7 +4,8 @@ this repo is for grepx academy students project
 ### What Are We Building?
 A command-line Python app where you can track your monthly expenses. Add an expense, view all expenses, see a monthly summary, and convert the total to USD using a live currency API.
 
-Folder Structure
+**Folder Structure**
+
 budget-tracker/
 ├── data/
 │   └── expenses.csv
@@ -21,7 +22,7 @@ budget-tracker/
 └── .gitignore
 
 
-Git Branch Workflow
+### Git Branch Workflow
 Follow this order for every ticket:
 
 Step 1	git checkout main
@@ -33,7 +34,7 @@ Step 6	git commit -m 'TICKET-N: short description'
 Step 7	git push origin feature/ticket-name
 Step 8	Create Pull Request → merge to main
 
-Branch summary:
+### Branch summary:
 
 Ticket	Branch Name	What Gets Built
 1	feature/setup	Folder structure, venv, requirements.txt
