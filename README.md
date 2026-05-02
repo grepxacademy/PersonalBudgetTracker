@@ -6,21 +6,21 @@ A command-line Python app where you can track your monthly expenses. Add an expe
 
 **Folder Structure**
 
-budget-tracker/
-├── data/
-│   └── expenses.csv
-├── src/
-│   ├── expenses.py
-│   ├── reports.py
-│   └── currency.py
-├── tests/
-│   ├── test_expenses.py
-│   └── test_reports.py
-├── main.py
-├── requirements.txt
-├── .env
-└── .gitignore
-
+budget-tracker/  
+├── data/  
+│   └── expenses.csv  
+├── src/  
+│   ├── expenses.py  
+│   ├── reports.py  
+│   └── currency.py  
+├── tests/  
+│   ├── test_expenses.py  
+│   └── test_reports.py  
+├── main.py  
+├── requirements.txt  
+├── .env  
+└── .gitignore  
+  
 
 ### Git Branch Workflow
 Follow this order for every ticket:
